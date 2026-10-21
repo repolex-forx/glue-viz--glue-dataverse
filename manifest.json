@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "glue-viz",
+  "repo": "glue-dataverse",
+  "versions": [
+    {
+      "commit": "5e98fb0d78cc17e8f2a1c4b990ebfe5bce8fd00a",
+      "parsed_at": "2026-10-21T21:26:45.226298+00:00",
+      "filetree": "filetree/5e98fb0d78cc17e8f2a1c4b990ebfe5bce8fd00a.nq.gz",
+      "blobs": [
+        "blob/2962c5619b24a674d49939160653a5f41f1c92c3.nq.gz",
+        "blob/a3db2a9c11fbc6e3efe2e6ad3fd41bed32a519a8.nq.gz",
+        "blob/74667e3daa62b274fc8f0f33a879e780bab03c7b.nq.gz",
+        "blob/c92bce705072db8334a60a8c950376c625199a6f.nq.gz",
+        "blob/8d445604a95ac6a51874b6a1cbc812920719839a.nq.gz",
+        "blob/df920ed03ca1dd14fd9559c1b9cd19cbd34523d6.nq.gz",
+        "blob/4b269dd6f8352b536b2c8f68c3497c4c1eecced6.nq.gz",
+        "blob/e39bd9355657cf0fec471b9bce19c51c3a710077.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
